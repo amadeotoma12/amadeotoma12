@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I'm Amadeo Toma from Switzerland. Currently, I am an Applications Developer at IMS, a specialized school where I've gained experience working with various languages and tools throughout my projects. My most significant achievement so far is developing my personal website, and I've also completed several smaller school projects. I'm constantly learning and creating through different projects, always looking to expand my skills and knowledge.<br><br>Feel free to reach out to me at [amadeotoma@outlook.com](mailto:amadeotoma@outlook.com). Let's create something amazing together!My name is ... and I'm a ..., from ....w</p>
+<p align="left">I'm Amadeo Toma from Switzerland. Currently, I am an Applications Developer at IMS, a specialized school where I've gained experience working with various languages and tools throughout my projects. My most significant achievement so far is developing my personal website, and I've also completed several smaller school projects. I'm constantly learning and creating through different projects, always looking to expand my skills and knowledge.<br><br>Feel free to reach out to me at [amadeotoma@outlook.com](mailto:amadeotoma@outlook.com). Let's create something amazing together!</p>
 
 ###
 
